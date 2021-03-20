@@ -59,7 +59,7 @@
 //===========================================================================
 
 // Core XY
-//#define SAPPHIRE_PRO
+#define SAPPHIRE_PRO
 //#define SAPPHIRE_PLUS
 //#define SAPPHIRE_PLUS_DUAL_Z //==> Read text since additional config is mandatory
 /****************************************************************************
